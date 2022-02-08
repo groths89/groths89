@@ -1,5 +1,5 @@
 ### Hi there 👋
-![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+
 <!--
 **groths89/groths89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
