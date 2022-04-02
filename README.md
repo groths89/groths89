@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning:
   -  JavaScript Data Structures/Algorithms
   -  Microservices/Microfrontends
-  -  XML
+  -  Java/OpenGL
 - 👯 I’m looking to collaborate on any public open source project
 - 🤔 I’m looking for help with AWS Amplify
 - 💬 Ask me about Web Development, Protractor and Testing
