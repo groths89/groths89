@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on two applications:
-  - 1. ChasingGoodOrg Application (Private Organization)
-  - 2. Baseball Stadium Journey Application (Open Source)
+  - 1. Baseball Stadium Journey Application (Open Source)
+  - 2. Portfolio Application
 - 🌱 I’m currently learning:
   -  JavaScript Data Structures/Algorithms
   -  Microservices/Microfrontends
