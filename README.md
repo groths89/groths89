@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on two applications:
   - 1. Baseball Stadium Journey Application (Open Source)
   - 2. Portfolio Application
+  - 3. 3 Level of Projects Application
 - 🌱 I’m currently learning:
   -  JavaScript Data Structures/Algorithms
   -  Microservices/Microfrontends
@@ -10,7 +11,7 @@
 - 👯 I’m looking to collaborate on any public open source project
 - 🤔 I’m looking for help with AWS Amplify
 - 💬 Ask me about Web Development, Protractor and Testing
-- 📫 How to reach me: me@gregorypaulrothsteibn.dev
+- 📫 How to reach me: me@gregorypaulrothstein.dev
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a major sports fan, my top four sports teams are (in this order):
   - Baseball, New York Mets
