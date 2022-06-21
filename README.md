@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on two applications:
+- 🔭 I’m currently working on three applications:
   - 1. Baseball Stadium Journey Application (Open Source)
   - 2. Portfolio Application
   - 3. 3 Level of Projects Application
