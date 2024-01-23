@@ -1,3 +1,9 @@
+<a href="https://www.github.com/groths89" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/groths89?logo=github&style=for-the-badge&color=0891b2&labelColor=1e3a8a" /></a><a href="https://www.x.com/Rothstein689" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Rothstein689?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1e3a8a"
+/></a><a href="https://www.twitch.tv/groths89" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/groths89?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1e3a8a&label=TWITCH+STATUS" /></a>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gregory Rothstein
 =========================================================================================================================================
 
@@ -14,11 +20,6 @@ I have been coding projects for the web since High School. I would like to get a
 * 🤝  I'm open to collaborating on any open source projects that increases my skills developing full stack apps and deploying them to the cloud
 * ⚡  I am a sports fan that likes to watch the New York Jets, New York Mets, and occasionally New York Islanders and Knicks and Notre Dame College Football.
 
-<a href="https://www.github.com/groths89" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/groths89?logo=github&style=for-the-badge&color=0891b2&labelColor=1e3a8a" /></a><a href="https://www.x.com/Rothstein689" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Rothstein689?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1e3a8a"
-/></a><a href="https://www.twitch.tv/groths89" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/groths89?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1e3a8a&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
