@@ -16,7 +16,7 @@ I have been coding projects for the web since High School. I would like to get a
 * 🖥️  See my portfolio at [See My Portfolio](http://www.gregorypaulrothstein.dev)
 * ✉️  You can contact me at [me@gregorypaulrothstein.dev](mailto:me@gregorypaulrothstein.dev)
 * 🚀  I'm currently working on [Wordpress Network Admin Application](http://www.thecommodoredesigns.com)
-* 🧠  I'm learning [Google IT Automation with Python Professional Certificate](https://www.coursera.org/google-certificates/it-automation-certificate)
+* 🧠  I'm learning Cybersecurity
 * 🤝  I'm open to collaborating on any open source projects that increases my skills developing full stack apps and deploying them to the cloud
 * ⚡  I am a sports fan that likes to watch the New York Jets, New York Mets, and occasionally New York Islanders and Knicks and Notre Dame College Football.
 
