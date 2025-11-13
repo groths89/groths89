@@ -18,7 +18,9 @@ I have been coding projects for the web since High School. I would like to get a
 * 🚀  I'm currently working on
    - [Cards Game Engine](https://github.com/groths89/cards-game-engine)
    - [Baseball Stats Application](https://github.com/groths89/baseball-statistics-point-system)
-* 🧠  I'm learning Cybersecurity
+* 🧠  I'm learning....
+   - Framework I am learning, [Astro](https://docs.astro.build/en/getting-started/)
+   - Cybersecurity
 * 🤝  I'm open to collaborating on any open source projects that increases my skills developing full stack apps and deploying them to the cloud
 * ⚡  I am a sports fan that likes to watch the New York Jets, New York Mets, and occasionally New York Islanders and Knicks and Notre Dame College Football.
 
